@@ -1,33 +1,26 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#Overview
+At Software Solutions, we are dedicated to transforming the healthcare landscape through innovative applications and products that prioritize efficiency, accessibility, and patient-centered care. With a passion for harnessing cutting-edge technology, we develop solutions that empower healthcare providers and patients alike, enhancing the quality of care delivered across the globe.
 
+Our team combines deep industry knowledge with data analytics, webapp development, and user-friendly design to create applications that address critical challenges in healthcare delivery. From streamlining administrative processes to enabling real-time patient monitoring, our products are designed to improve outcomes and reduce costs. We pave the way, one innovative solution at a time. 
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+##Website
+https://softwaresolutionsllc.github.io/
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
+##Phone
+202-649-0162
+Phone number is 202-649-0162
 
-http://md.photomerchant.net/
+###Industry
+Software Development
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
+###Company size
+2-10 employees
 
-AJ
-aj@lkn.io | @ajlkn
+###Headquarters
+Fairfax, Virginia
 
+###Founded
+2024
 
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+###Specialties
+software, web applications, mobile applications, Healthcare, Devices, Robotics, and Emerging Tech
